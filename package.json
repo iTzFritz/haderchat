@@ -1,0 +1,17 @@
+{
+  "name": "haderchat",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "Volker Racho",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.2",
+    "socket.io": "^2.0.4",
+    "nodemailer": "^4.4.0",
+    "mysql": "^2.15.0"
+  }
+}
